@@ -1,0 +1,38 @@
+export default [
+  {
+    key: '1',
+    Ticket_Type: 'Request',
+    Status: 'To Do',
+    Department: 'Mobile Application',
+    Date: '2024-07-15',
+    Title: 'Feature Request: Implement Dark Mode',
+    Body: 'Employees are requesting a dark mode option for the mobile application to improve user experience in low-light environments.',
+  },
+  {
+    key: '2',
+    Ticket_Type: 'Suggestion',
+    Status: 'In Progress',
+    Department: 'IT',
+    Date: '2024-07-12',
+    Title: 'Streamline Onboarding Process for New Hires',
+    Body: 'Suggestion to create a standardized onboarding process for new hires to improve efficiency and reduce onboarding time.',
+  },
+  {
+    key: '3',
+    Ticket_Type: 'Complaint',
+    Status: 'Done',
+    Department: 'Mobile Application',
+    Date: '2024-07-10',
+    Title: 'App Crashing on Login (Android)',
+    Body: 'Several employees are reporting the mobile application crashing on login for Android devices. Please investigate and fix the issue.',
+  },
+  {
+    key: '4',
+    Ticket_Type: 'Request',
+    Status: 'Defer',
+    Department: 'IT',
+    Date: '2024-07-11',
+    Title: 'Upgrade Office Computers to Latest Hardware',
+    Body: 'Request to upgrade office computers to the latest hardware to improve performance and reliability. (Deferred due to budget constraints)',
+  },
+];
