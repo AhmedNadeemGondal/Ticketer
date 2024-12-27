@@ -26,11 +26,3 @@ A comprehensive ticketing app where users can manage and view tickets, add new o
 ### Settings
 
 <img src="./screenshots/4-settings.png" width="250" />
-
-## Installation
-
-1. Clone the repository.
-2. Install dependencies:
-   ```bash
-   npm install
-   ```
