@@ -1,6 +1,13 @@
+# Ticketer
+
 # Ticketing App
 
 A comprehensive ticketing app where users can manage and view tickets, add new ones, and customize app settings.
+
+## Built with
+
+This app is built using **React Native**, a framework for building natively rendering mobile applications using JavaScript and React.
+
 
 ## Features
 
