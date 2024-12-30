@@ -1,7 +1,5 @@
 # Ticketer
 
-## Ticketing App
-
 A comprehensive ticketing app where users can manage and view tickets, add new ones, and customize app settings.
 
 ## Built with
